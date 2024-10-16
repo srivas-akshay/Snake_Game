@@ -1,0 +1,1 @@
+snake.create_segment()
